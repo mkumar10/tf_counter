@@ -1,0 +1,5 @@
+mobydick-chapter1.txt
+mobydick-chapter2.txt
+mobydick-chapter3.txt
+mobydick-chapter4.txt
+mobydick-chapter5.txt

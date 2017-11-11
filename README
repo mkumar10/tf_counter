@@ -1,0 +1,12 @@
+- To compile the file, use the following command:
+  g++ -std=c++14 tf.cpp -o term_freq
+- To run the file, use the following command:
+  ./term_freq
+
+Other Instructions:
+
+- The words for which you would like to find the tf add them to the word_list.txt file.
+- If you would like to add more documents, please add their names to the file_list.txt
+  and make sure they are in the same directory.
+- For simplicity, stop words have not been removed and I assume a word in the word_list occurs
+  at least once in all the documents combined.
